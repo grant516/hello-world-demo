@@ -12,6 +12,6 @@ This is the classic Hello World. The purpose was to demonstrate my development e
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Git Website](https://git-scm.com/download)
-* [Web Site Name](http://url.link.goes.here)
+* [Github Website](https://github.com/)
+* [Python Documentation](https://docs.python.org/3.10/reference/index.html)
