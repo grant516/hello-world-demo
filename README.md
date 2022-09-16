@@ -2,7 +2,8 @@
 
 This is the classic Hello World. The purpose was to demonstrate my development environment with Python, Visual Media Code, and Git/Github.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Demo](https://youtu.be/9Rpx_RiNrY8)
+[Fun Hello World Demo](https://youtu.be/eeYw_mjUJws)
 
 # Development Environment
 
